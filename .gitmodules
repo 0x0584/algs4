@@ -10,3 +10,6 @@
 [submodule "kd-tree"]
 	path = kd-tree
 	url = git@github.com:0x0584/kd-trees.git
+[submodule "queues"]
+	path = queues
+	url = git@github.com:0x0584/queues.git
