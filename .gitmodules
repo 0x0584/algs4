@@ -1,0 +1,12 @@
+[submodule "collinear"]
+	path = collinear
+	url = git@github.com:0x0584/collinear.git
+[submodule "8puzzle"]
+	path = 8puzzle
+	url = git@github.com:0x0584/8puzzle.git
+[submodule "monte-carlo"]
+	path = monte-carlo
+	url = git@github.com:0x0584/monte-carlo.git
+[submodule "kd-tree"]
+	path = kd-tree
+	url = git@github.com:0x0584/kd-trees.git
